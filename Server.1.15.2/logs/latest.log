@@ -1,0 +1,79 @@
+[00:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
+[00:04:58] [Server thread/INFO]: ThePaperHat was slain by Zombie
+[00:05:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[00:05:49] [Server thread/WARN]: Schubird moved wrongly!
+[00:06:18] [Server thread/INFO]: nightsharks was shot by Skeleton
+[00:10:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[00:15:51] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/75274, l='world', x=330.62, y=64.34, z=330.88]
+[00:15:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[00:17:47] [Server thread/INFO]: Schubird has made the advancement [Ice Bucket Challenge]
+[00:21:16] [Server thread/INFO]: ThePaperHat lost connection: Disconnected
+[00:21:16] [Server thread/INFO]: ThePaperHat left the game
+[00:21:46] [Server thread/INFO]: nightsharks lost connection: Disconnected
+[00:21:46] [Server thread/INFO]: nightsharks left the game
+[00:25:48] [Server thread/INFO]: Schubird has made the advancement [We Need to Go Deeper]
+[00:40:02] [User Authenticator #9/INFO]: UUID of player ThePaperHat is 0cd700ff-e537-4501-be46-4eb6b5954556
+[00:40:02] [Server thread/INFO]: ThePaperHat[/47.147.145.156:58888] logged in with entity id 79857 at (-109.86009916759316, 64.0, 63.961141439250575)
+[00:40:02] [Server thread/INFO]: ThePaperHat joined the game
+[00:45:56] [Server thread/WARN]: DeadMage moved too quickly! -3.0212803834131705,0.0,9.685066763253758
+[00:45:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[00:49:36] [Server thread/WARN]: ThePaperHat moved wrongly!
+[00:51:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3342ms or 66 ticks behind
+[00:51:00] [Server thread/WARN]: Boat (vehicle of ThePaperHat) moved too quickly! 8.268928376441409,0.0,-6.239038160942528
+[00:51:00] [Server thread/WARN]: Boat (vehicle of ThePaperHat) moved too quickly! 8.596033762343893,0.0,-6.468670042648
+[00:51:00] [Server thread/WARN]: Boat (vehicle of ThePaperHat) moved too quickly! 8.923399149533424,0.0,-6.697986972078979
+[00:51:00] [Server thread/WARN]: Boat (vehicle of ThePaperHat) moved too quickly! 9.25100288156358,0.0,-6.927014120790091
+[00:53:17] [Server thread/INFO]: Schubird hit the ground too hard
+[00:56:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3335ms or 66 ticks behind
+[00:56:03] [Server thread/WARN]: picklechippy moved wrongly!
+[00:57:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5299ms or 105 ticks behind
+[00:57:34] [Server thread/WARN]: DeadMage moved too quickly! -9.837216927204707,2.024424088213692,0.8788011983029094
+[00:57:34] [Server thread/WARN]: Schubird moved too quickly! -0.43238533817287816,0.0,-10.033736091110882
+[01:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3771ms or 75 ticks behind
+[01:01:40] [Server thread/INFO]: picklechippy lost connection: Disconnected
+[01:01:40] [Server thread/INFO]: picklechippy left the game
+[01:01:59] [Server thread/INFO]: ThePaperHat lost connection: Disconnected
+[01:01:59] [Server thread/INFO]: ThePaperHat left the game
+[01:02:01] [User Authenticator #10/INFO]: UUID of player picklechippy is 31f252f7-4d59-4f9d-971d-4440f56d0377
+[01:02:01] [Server thread/INFO]: picklechippy[/76.229.98.85:56519] logged in with entity id 93454 at (358.92917887086185, 64.5625, 314.09817074681837)
+[01:02:01] [Server thread/INFO]: picklechippy joined the game
+[01:02:40] [User Authenticator #11/INFO]: UUID of player ThePaperHat is 0cd700ff-e537-4501-be46-4eb6b5954556
+[01:02:40] [Server thread/INFO]: ThePaperHat[/47.147.145.156:58984] logged in with entity id 93509 at (-729.8529508333079, 82.0, -2575.591661999575)
+[01:02:40] [Server thread/INFO]: ThePaperHat joined the game
+[01:04:29] [Server thread/INFO]: picklechippy has made the advancement [Acquire Hardware]
+[01:13:10] [Server thread/INFO]: DeadMage has made the advancement [We Need to Go Deeper]
+[01:13:58] [Server thread/INFO]: ThePaperHat lost connection: Disconnected
+[01:13:58] [Server thread/INFO]: ThePaperHat left the game
+[01:14:10] [User Authenticator #12/INFO]: UUID of player ThePaperHat is 0cd700ff-e537-4501-be46-4eb6b5954556
+[01:14:10] [Server thread/INFO]: ThePaperHat[/47.147.145.156:59021] logged in with entity id 97091 at (-714.9748421762476, 88.0, -2602.920405477354)
+[01:14:10] [Server thread/INFO]: ThePaperHat joined the game
+[01:16:13] [Server thread/WARN]: DeadMage moved wrongly!
+[01:26:27] [User Authenticator #13/INFO]: UUID of player Anghon is fef6d435-7257-4fb3-aad0-09ecf058fade
+[01:26:27] [Server thread/INFO]: Anghon[/97.94.169.225:54946] logged in with entity id 101084 at (-142.5, 67.0000002, -297.5)
+[01:26:27] [Server thread/INFO]: Anghon joined the game
+[01:27:43] [Server thread/INFO]: ThePaperHat lost connection: Disconnected
+[01:27:43] [Server thread/INFO]: ThePaperHat left the game
+[01:28:10] [Server thread/INFO]: <Anghon> slpe
+[01:28:14] [Server thread/INFO]: <Anghon> sepl
+[01:28:16] [Server thread/INFO]: <Anghon> sepeleeep
+[01:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[01:29:27] [Server thread/INFO]: Anghon lost connection: Disconnected
+[01:29:27] [Server thread/INFO]: Anghon left the game
+[01:29:59] [User Authenticator #14/INFO]: UUID of player Anghon is fef6d435-7257-4fb3-aad0-09ecf058fade
+[01:29:59] [Server thread/INFO]: Anghon[/97.94.169.225:55024] logged in with entity id 102219 at (-142.70000002533197, 67.0000002, -297.700000025332)
+[01:29:59] [Server thread/INFO]: Anghon joined the game
+[01:30:16] [User Authenticator #15/INFO]: UUID of player ThePaperHat is 0cd700ff-e537-4501-be46-4eb6b5954556
+[01:30:16] [Server thread/INFO]: ThePaperHat[/47.147.145.156:59108] logged in with entity id 102468 at (-717.6471146489174, 92.0, -2611.747224753685)
+[01:30:16] [Server thread/INFO]: ThePaperHat joined the game
+[01:31:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[01:33:49] [Server thread/INFO]: Schubird has reached the goal [Hired Help]
+[01:33:49] [Server thread/INFO]: DeadMage has reached the goal [Hired Help]
+[01:36:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[01:38:23] [Server thread/INFO]: Anghon drowned
+[01:40:28] [Server thread/INFO]: Anghon lost connection: Disconnected
+[01:40:28] [Server thread/INFO]: Anghon left the game
+[01:41:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[01:48:54] [Server thread/INFO]: DeadMage lost connection: Disconnected
+[01:48:54] [Server thread/INFO]: DeadMage left the game
+[01:48:54] [Server thread/INFO]: ThePaperHat lost connection: Disconnected
+[01:48:54] [Server thread/INFO]: ThePaperHat left the game

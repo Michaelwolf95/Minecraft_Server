@@ -1,63 +1,53 @@
-[16:13:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:13:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:13:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:13:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:13:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:13:18] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[16:13:18] [Server thread/INFO]: Loading properties
-[16:13:18] [Server thread/INFO]: Default game type: SURVIVAL
-[16:13:18] [Server thread/INFO]: Generating keypair
-[16:13:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:13:18] [Server thread/INFO]: Using default channel type
-[16:13:19] [Server thread/INFO]: Preparing level "world"
-[16:13:19] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:13:19] [Server thread/INFO]: Loaded 6 recipes
-[16:13:20] [Server thread/INFO]: Loaded 825 advancements
-[16:13:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:13:21] [Server thread/INFO]: Preparing spawn area: 0%
-[16:13:21] [Server thread/INFO]: Preparing spawn area: 0%
-[16:13:21] [Server thread/INFO]: Time elapsed: 814 ms
-[16:13:21] [Server thread/INFO]: Done (1.972s)! For help, type "help"
-[16:13:26] [User Authenticator #1/INFO]: UUID of player ThePaperHat is 0cd700ff-e537-4501-be46-4eb6b5954556
-[16:13:26] [Server thread/INFO]: ThePaperHat[/127.0.0.1:60916] logged in with entity id 69 at (-717.0142829356963, 92.0, -2611.4935193174515)
-[16:13:26] [Server thread/INFO]: ThePaperHat joined the game
-[16:26:19] [Server thread/INFO]: ThePaperHat lost connection: Disconnected
-[16:26:19] [Server thread/INFO]: ThePaperHat left the game
-[16:26:22] [User Authenticator #2/INFO]: UUID of player ThePaperHat is 0cd700ff-e537-4501-be46-4eb6b5954556
-[16:26:22] [Server thread/INFO]: ThePaperHat[/127.0.0.1:60978] logged in with entity id 2200 at (-709.1103878283446, 82.0, -2614.4966391055514)
-[16:26:22] [Server thread/INFO]: ThePaperHat joined the game
-[16:33:35] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-684, y=57, z=-2626} fk{x=-686, y=57, z=-2627}
-[16:33:35] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-684, y=57, z=-2626} fk{x=-686, y=57, z=-2627}
-[16:55:53] [Server thread/INFO]: ThePaperHat has made the advancement [Not Today, Thank You]
-[17:03:01] [Server thread/INFO]: ThePaperHat lost connection: Disconnected
-[17:03:01] [Server thread/INFO]: ThePaperHat left the game
-[17:03:20] [User Authenticator #3/INFO]: UUID of player ThePaperHat is 0cd700ff-e537-4501-be46-4eb6b5954556
-[17:03:20] [Server thread/INFO]: ThePaperHat[/127.0.0.1:61130] logged in with entity id 8591 at (-714.9819816054162, 88.0, -2605.300000011921)
-[17:03:20] [Server thread/INFO]: ThePaperHat joined the game
-[17:08:21] [User Authenticator #4/INFO]: UUID of player Schubird is cafebfa6-c61a-4ffc-b748-38b6e0faf32d
-[17:08:21] [Server thread/INFO]: Schubird[/72.192.189.243:56155] logged in with entity id 9507 at (376.3687190699278, 63.0, 280.15077077570436)
-[17:08:21] [Server thread/INFO]: Schubird joined the game
-[17:13:19] [Server thread/INFO]: Schubird lost connection: Disconnected
-[17:13:19] [Server thread/INFO]: Schubird left the game
-[17:21:46] [User Authenticator #5/INFO]: UUID of player Schubird is cafebfa6-c61a-4ffc-b748-38b6e0faf32d
-[17:21:46] [Server thread/INFO]: Schubird[/72.192.189.243:56397] logged in with entity id 12497 at (348.2195501562256, 64.0, 259.4497301767228)
-[17:21:46] [Server thread/INFO]: Schubird joined the game
-[17:35:31] [Server thread/WARN]: Horse moved wrongly!
-[17:35:47] [Server thread/WARN]: Schubird moved wrongly!
-[17:35:49] [Server thread/WARN]: Horse moved wrongly!
-[17:42:45] [Server thread/WARN]: Schubird moved wrongly!
-[17:45:01] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22659, l='world', x=-125.67, y=62.70, z=-1578.00]
-[17:46:15] [Server thread/WARN]: Schubird moved wrongly!
-[17:49:42] [Server thread/INFO]: Schubird has made the advancement [Fishy Business]
-[17:51:26] [Server thread/INFO]: Schubird has made the advancement [Ol' Betsy]
-[17:51:48] [Server thread/INFO]: Schubird has made the advancement [Take Aim]
-[18:01:27] [Server thread/INFO]: Schubird fell from a high place
-[18:07:00] [Server thread/INFO]: Schubird has made the advancement [Hot Stuff]
-[18:10:08] [Server thread/WARN]: Schubird moved wrongly!
-[18:12:25] [Server thread/WARN]: Schubird moved wrongly!
-[18:35:48] [Server thread/WARN]: Schubird moved wrongly!
-[18:54:15] [Server thread/INFO]: ThePaperHat has made the advancement [We Need to Go Deeper]
-[19:03:34] [Server thread/INFO]: Schubird lost connection: Disconnected
-[19:03:34] [Server thread/INFO]: Schubird left the game
-[19:16:09] [Server thread/INFO]: ThePaperHat lost connection: Disconnected
-[19:16:09] [Server thread/INFO]: ThePaperHat left the game
+[10:18:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:18:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:18:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:18:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:18:18] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:18:18] [Server thread/INFO]: Loading properties
+[10:18:18] [Server thread/INFO]: Default game type: SURVIVAL
+[10:18:18] [Server thread/INFO]: Generating keypair
+[10:18:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:18:18] [Server thread/INFO]: Using default channel type
+[10:18:18] [Server thread/INFO]: Preparing level "world"
+[10:18:18] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:18:19] [Server thread/INFO]: Loaded 6 recipes
+[10:18:19] [Server thread/INFO]: Loaded 825 advancements
+[10:18:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:18:20] [Server thread/INFO]: Preparing spawn area: 0%
+[10:18:20] [Server thread/INFO]: Preparing spawn area: 0%
+[10:18:20] [Server thread/INFO]: Preparing spawn area: 89%
+[10:18:20] [Server thread/INFO]: Time elapsed: 1024 ms
+[10:18:20] [Server thread/INFO]: Done (2.040s)! For help, type "help"
+[10:50:49] [User Authenticator #1/INFO]: UUID of player picklechippy is 31f252f7-4d59-4f9d-971d-4440f56d0377
+[10:50:49] [Server thread/INFO]: picklechippy[/192.168.1.1:57263] logged in with entity id 69 at (358.06027557445793, 64.0, 312.65607556268003)
+[10:50:49] [Server thread/INFO]: picklechippy joined the game
+[11:48:06] [Server thread/INFO]: picklechippy has made the advancement [Suit Up]
+[11:48:06] [Server thread/INFO]: picklechippy has made the advancement [Isn't It Iron Pick]
+[11:53:09] [Server thread/INFO]: picklechippy lost connection: Disconnected
+[11:53:09] [Server thread/INFO]: picklechippy left the game
+[19:42:15] [User Authenticator #2/INFO]: UUID of player ThePaperHat is 0cd700ff-e537-4501-be46-4eb6b5954556
+[19:42:15] [Server thread/INFO]: ThePaperHat[/127.0.0.1:50481] logged in with entity id 6714 at (-698.700000025332, 92.0000002, -2615.700000025332)
+[19:42:15] [Server thread/INFO]: ThePaperHat joined the game
+[19:42:46] [User Authenticator #3/INFO]: UUID of player picklechippy is 31f252f7-4d59-4f9d-971d-4440f56d0377
+[19:42:46] [Server thread/INFO]: picklechippy[/192.168.1.1:62227] logged in with entity id 6944 at (357.4816252277478, 64.0, 312.4931477728058)
+[19:42:46] [Server thread/INFO]: picklechippy joined the game
+[20:01:52] [Server thread/INFO]: picklechippy has made the advancement [Not Today, Thank You]
+[20:03:52] [Server thread/INFO]: picklechippy was shot by Skeleton
+[20:06:57] [Server thread/WARN]: ThePaperHat was kicked for floating too long!
+[20:06:57] [Server thread/INFO]: ThePaperHat lost connection: Flying is not enabled on this server
+[20:06:57] [Server thread/INFO]: ThePaperHat left the game
+[20:07:01] [User Authenticator #4/INFO]: UUID of player ThePaperHat is 0cd700ff-e537-4501-be46-4eb6b5954556
+[20:07:01] [Server thread/INFO]: ThePaperHat[/127.0.0.1:50649] logged in with entity id 13790 at (-698.700000025332, 92.0000002, -2615.700000025332)
+[20:07:01] [Server thread/INFO]: ThePaperHat joined the game
+[20:07:08] [Server thread/WARN]: ThePaperHat was kicked for floating too long!
+[20:07:08] [Server thread/INFO]: ThePaperHat lost connection: Flying is not enabled on this server
+[20:07:08] [Server thread/INFO]: ThePaperHat left the game
+[20:07:10] [User Authenticator #5/INFO]: UUID of player ThePaperHat is 0cd700ff-e537-4501-be46-4eb6b5954556
+[20:07:10] [Server thread/INFO]: ThePaperHat[/127.0.0.1:50652] logged in with entity id 13934 at (-698.700000025332, 92.0000002, -2615.700000025332)
+[20:07:10] [Server thread/INFO]: ThePaperHat joined the game
+[20:16:40] [Server thread/INFO]: picklechippy has made the advancement [The Parrots and the Bats]
+[21:05:00] [Server thread/INFO]: ThePaperHat lost connection: Disconnected
+[21:05:00] [Server thread/INFO]: ThePaperHat left the game
+[21:09:25] [Server thread/INFO]: picklechippy has made the advancement [We Need to Go Deeper]
+[21:45:45] [Server thread/INFO]: picklechippy lost connection: Disconnected
+[21:45:45] [Server thread/INFO]: picklechippy left the game
